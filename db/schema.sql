@@ -5,11 +5,11 @@ USE employees_db;
 CREATE TABLE  department
 (
     id int NOT NULL AUTO_INCREMENT,
-    name VARCHAR(30) NOT NULL,
+    department_name VARCHAR(30) NOT NULL,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE role 
+CREATE TABLE _role 
 (
     id int NOT NULL AUTO_INCREMENT,
     title VARCHAR(30) NOT NULL,
