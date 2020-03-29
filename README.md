@@ -8,7 +8,7 @@ a command line interface for tracking and managing employee information, includi
 * Credits
 
 ## Usage
-insert image here
+![Screen Shot 2020-03-28 at 10 30 35 PM](https://user-images.githubusercontent.com/56802588/77840802-861f3e80-7148-11ea-8f68-d153e29d5f9b.png)
 
 ## Installation
 1) npm install console.table --save
