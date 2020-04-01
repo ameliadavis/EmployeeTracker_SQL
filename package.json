@@ -1,0 +1,29 @@
+{
+  "name": "employeetracker_sql",
+  "version": "1.0.0",
+  "description": "a command line interface for tracking and managing employee information, including, roles departments and managers.",
+  "main": "connection.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.7.3",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameliadavis/EmployeeTracker_SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameliadavis/EmployeeTracker_SQL/issues"
+  },
+  "homepage": "https://github.com/ameliadavis/EmployeeTracker_SQL#readme"
+}
